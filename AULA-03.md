@@ -1,4 +1,4 @@
-### Aula 01 - Curso de Git&GitHub - Criando um Repositório
+### Aula 01 - Curso de Git&GitHub - Criando um Repositório - 25/08/2023
 ---
 * Command lines:
 ```
