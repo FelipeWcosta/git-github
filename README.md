@@ -1,2 +1,2 @@
 # Curso Git-GitHub
-* Comandos iniciais
+* Comandos iniciais - Git
