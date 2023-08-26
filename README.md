@@ -2,3 +2,5 @@
 * Comandos iniciais - Git&GitHub Curso
 
 utilizando o comando `git commit -am "msg"`
+
+Alterando o `README.md` através da interface web
